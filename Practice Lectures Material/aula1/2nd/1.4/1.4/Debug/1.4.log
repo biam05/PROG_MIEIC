@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\escola\fac\1o ano\2s\programação\practice lectures material\aula1\2nd\1.4\1.4\main.cpp(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\escola\fac\1o ano\2s\programação\practice lectures material\aula1\2nd\1.4\1.4\main.cpp(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  1.4.vcxproj -> D:\ESCOLA\fac\1o ano\2s\Programação\Practice Lectures Material\aula1\2nd\1.4\Debug\1.4.exe

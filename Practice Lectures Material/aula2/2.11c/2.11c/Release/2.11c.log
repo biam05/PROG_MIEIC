@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\escola\fac\1o ano\2s\programação\practice lectures material\aula2\2.11c\2.11c\main.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\escola\fac\1o ano\2s\programação\practice lectures material\aula2\2.11c\2.11c\main.cpp(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\escola\fac\1o ano\2s\programação\practice lectures material\aula2\2.11c\2.11c\main.cpp(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\escola\fac\1o ano\2s\programação\practice lectures material\aula2\2.11c\2.11c\main.cpp(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\escola\fac\1o ano\2s\programação\practice lectures material\aula2\2.11c\2.11c\main.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  2.11c.vcxproj -> D:\ESCOLA\fac\1o ano\2s\Programação\Practice Lectures Material\aula2\2.11c\Release\2.11c.exe

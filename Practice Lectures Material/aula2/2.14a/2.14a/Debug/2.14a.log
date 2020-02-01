@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\escola\fac\1o ano\2s\programação\practice lectures material\aula2\2.14a\2.14a\main.cpp(7): warning C4305: 'initializing': truncation from '__int64' to 'float'
+  2.14a.vcxproj -> D:\ESCOLA\fac\1o ano\2s\Programação\Practice Lectures Material\aula2\2.14a\Debug\2.14a.exe

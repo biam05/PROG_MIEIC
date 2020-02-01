@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Generating code
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+d:\escola\fac\1o ano\2s\programação\practice lectures material\aula2\2.6b\2.6b\main.cpp(10): error C4700: uninitialized local variable 'x' used
+LINK : fatal error LNK1257: code generation failed

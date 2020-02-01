@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\escola\fac\1o ano\2s\programação\practice lectures material\aula2\2.11b\2.11b\main.cpp(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 13 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  2.11b.vcxproj -> D:\ESCOLA\fac\1o ano\2s\Programação\Practice Lectures Material\aula2\2.11b\Release\2.11b.exe
